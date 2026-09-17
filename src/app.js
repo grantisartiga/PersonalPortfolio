@@ -72,7 +72,6 @@
     }
 })();
 
-
 var typed = new Typed(".text", {
     strings: [
         "CpE Student",
